@@ -1,2 +1,11 @@
-# Challenge10Badgers
-SVG Generator
+# SVG Generator
+
+## Setup
+
+## Description
+
+## Utility
+
+## Functionality
+
+## Links
